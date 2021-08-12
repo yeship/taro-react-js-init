@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "taro-js",
+  "description": "taro3.x的快速创建脚手架",
+  "appid": "wx683b4544f2726c16",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
